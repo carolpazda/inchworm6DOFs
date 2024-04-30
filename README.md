@@ -13,3 +13,6 @@ b) 4 graus de liberdade;
 c) 5 graus de liberdade;
 
 d) 6 graus de liberdade.
+
+
+Trabalho desenvolvido pela célula de análise do time de Robótica do Instituto SENAI de Inovação em Sistemas de Manufatura.
