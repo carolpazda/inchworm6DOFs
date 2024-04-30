@@ -2,7 +2,7 @@
 
 O presente repositório tem como objetivo trazer os resultados da simulação cinemática de conceitos de robôs inspirados em inchworms.
 
-![Cópia de Capa (1)](https://github.com/carolpazda/inchworm6DOFs/assets/107930972/757faef3-abfd-450d-8836-38a1bdecf476)
+![Cópia de Capa (2)](https://github.com/carolpazda/inchworm6DOFs/assets/107930972/bdb7b11b-8461-4561-bfad-2cc5f908f6ed)
 
 Os conceitos estudados, forma:
 
