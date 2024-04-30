@@ -7,6 +7,9 @@ O presente repositório tem como objetivo trazer os resultados da simulação ci
 Os conceitos estudados, forma:
 
 a) 3 graus de liberdade;
+
 b) 4 graus de liberdade;
+
 c) 5 graus de liberdade;
+
 d) 6 graus de liberdade.
