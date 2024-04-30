@@ -1,5 +1,5 @@
-# Inchworm - CLAWAR 2024
+# Kinematic Analysis Using MSC Adams View: A Robot Inspired by Inchworm Locomotion
 
-(dar uma descrição um pouco mais detalhada do repositório depois)
+O presente repositório tem como objetivo trazer os resultados da simulação cinemática de conceitos de robôs inspirados em inchworms.
 
 ![Cópia de Capa (1)](https://github.com/carolpazda/inchworm6DOFs/assets/107930972/757faef3-abfd-450d-8836-38a1bdecf476)
